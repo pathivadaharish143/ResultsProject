@@ -1,0 +1,89 @@
+#div1{
+    height:auto;
+    width:auto;
+}
+    .center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+body {
+	margin:0;
+}
+
+.loginbg_image2
+{
+	background-image:url(images/loginbg_image2.jpg);
+	background-repeat:no-repeat;
+	height:171px;
+	background-position: center;
+	}
+	
+	
+	.loginbg_image3
+{
+	background-image:url(images/loginbg_image3.jpg);
+	background-repeat:no-repeat;
+	height:143px;
+	background-position: center top;
+	}
+	
+	
+	
+.footer_text {
+	font-family: verdana;
+	font-size: 11px;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-align:right;
+	padding-right:20px;
+}
+
+
+
+.tdcol3 {
+	background-color: #EBEBEB;
+}
+
+.footer_bg {
+	background-image: url(images/footer_bg.jpg);
+	background-repeat: repeat-x;
+	height: 26px;
+}
+
+
+.back2 {
+    background-image: url(images/back2.gif);
+    background-repeat: repeat-x;
+    background-position: left;
+    height: 29px;
+}
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
+
+.text {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #333333;
+    text-decoration: none;
+}
+.tableboarder {
+    border: 1px solid #52000C;
+}
+.loginbg_image3 {
+    background-image: url(../Images/loginbg_image3.jpg);
+    background-repeat: no-repeat;
+    height: 143px;
+    background-position: center top;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
